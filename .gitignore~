@@ -22,9 +22,3 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-
-
-
-
-### wxmgcs
-#*.un~
